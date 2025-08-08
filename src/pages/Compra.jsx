@@ -52,7 +52,7 @@ function Compra() {
       ]
     },
     {
-      marca: 'Chevrolet',
+      marca: 'Suzuki',
       color: 'Negro',
       estado: 'Nuevo',
       estadoDetalle: 'Nuevo',
@@ -77,7 +77,7 @@ function Compra() {
     },
     {
       marca: 'Mitsubishi',
-      color: 'Rojo',
+      color: 'Blanco',
       estado: 'Bueno',
       estadoDetalle: 'Bueno',
       precio: '12,000$',
