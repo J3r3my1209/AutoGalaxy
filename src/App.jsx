@@ -5,7 +5,7 @@ import Compra from './pages/Compra'
 import Venta from './pages/Venta'
 import Contacto from './pages/Contacto'
 import Formulario from './pages/Formulario'
-import Iniciarsesion from './pages/iniciarsesion'
+import Iniciarsesion from './pages/Iniciarsesion'
 import Registrarse from "./pages/Registrarse";
 
 function App() {
